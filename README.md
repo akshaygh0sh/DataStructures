@@ -3,4 +3,4 @@ Elementary Data Structures written Using C++ during the Summer of 2020 unless ot
 
 All data structure implementations except the Stack are templatized and allow for the storage of any standard, comparable data (e.x. char, string, double, int, etc).  
 
-**NOTE FILES MAY CONTAIN SOME EXTRA ARBITRARY FUNCTIONS THAT WERE CHALLENGING/FUN AND RELATED TO THE DATA STRUCTURES (IGNORE THESE)**
+**FILES MAY CONTAIN SOME EXTRA ARBITRARY FUNCTIONS THAT WERE CHALLENGING/FUN AND RELATED TO THE DATA STRUCTURES (IGNORE THESE)**
