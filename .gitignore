@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# VS Code
+*.o
+*.vs
+*.vcxproj*
+*.tlog
+*.log
+*.pdb
+*.ilk
+*.obj
+*.idb
+*/Debug
